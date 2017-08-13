@@ -5,7 +5,6 @@ tap 'homebrew/bundle'
 tap 'homebrew/services'
 
 brew 'ack'
-brew 'bash-completion2'
 brew 'coreutils'
 brew 'git'
 brew 'grc'
