@@ -1,3 +1,8 @@
+#▄▄▄  ▄• ▄▌.▄▄ · .▄▄ ·     ▄▄▄▄· ▄▄▄ . ▄· ▄▌▄▄▄ .
+#▀▄ █·█▪██▌▐█ ▀. ▐█ ▀.     ▐█ ▀█▪▀▄.▀·▐█▪██▌▀▄.▀·
+#▐▀▀▄ █▌▐█▌▄▀▀▀█▄▄▀▀▀█▄    ▐█▀▀█▄▐▀▀▪▄▐█▌▐█▪▐▀▀▪▄
+#▐█•█▌▐█▄█▌▐█▄▪▐█▐█▄▪▐█    ██▄▪▐█▐█▄▄▌ ▐█▀·.▐█▄▄▌
+#.▀  ▀ ▀▀▀  ▀▀▀▀  ▀▀▀▀     ·▀▀▀▀  ▀▀▀   ▀ •  ▀▀▀ 
 # russ beye's dotfiles
 
 I love a tight running ship, and for a while my ship was leaking. In the past I had used topical dotfiles, but after considering it more, I think I like what [Zach Holman](http://zachholman.com) and others did. So, I forked, edited, and made this mine. Maybe when I get the free time I'll start from scratch, but this was seriously a great starter pack to build from.
